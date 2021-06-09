@@ -1,0 +1,6 @@
+X0010
+29. Jaka jest wielkoœæ strony danych w MS SQL Server?
+a) 2 GB
+b) 64 kB
+c) 8 kB
+d) 64 B

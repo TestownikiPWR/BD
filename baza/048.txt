@@ -1,0 +1,6 @@
+X0010
+48. Informacje o wszystkich plikach bazy danych Oracle zawarte s¹:
+a) w plikach konfiguracyjnych
+b) w plikach kodu
+c) w plikach kontrolnych
+d) w plikach danych

@@ -1,0 +1,6 @@
+X0010
+35. Czym jest element LOB?
+a) tabel¹
+b) perspektyw¹
+c) obrazkiem
+d) indeksem

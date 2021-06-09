@@ -1,0 +1,6 @@
+X1000
+44. W którym przypadku nie wystêpuje ryzyko naruszenia integralnoœci referencyjnej:
+a) usuniêcie krotki z relacji podrzêdnej
+b) wstawienie krotki do relacji podrzêdnej
+c) usuniêcie krotki z relacji nadrzêdnej
+d) modyfikacja klucza g³ównego krotki w relacji nadrzêdnej

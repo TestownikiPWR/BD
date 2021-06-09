@@ -1,0 +1,6 @@
+X0010
+30. Które stwierdzenie nie dotyczy baz NoSQL?
+a) nie korzystaj¹ bezpoœrednio ze struktury relacyjnego modelu
+b) wœród ich typów s¹ bazy kolumnowe
+c) zazwyczaj dane s¹ przechowywane w tabelach
+d) nie zawsze implementuj¹ wszystkie za³o¿enia ACID

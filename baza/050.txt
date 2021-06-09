@@ -1,0 +1,6 @@
+X0100
+50. Z³¹czenie INNER JOIN zwraca domyœlnie:
+a) wszystkie kolumny iloczynu kartezjañskiego
+b) wszystkie kolumny tabeli wewnêtrznej
+c) wszystkie kolumny tabeli zewnêtrznej
+d) tylko kolumny spe³niaj¹ce warunek klauzuli WHERE

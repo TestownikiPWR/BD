@@ -1,0 +1,5 @@
+X010
+16. Stos jest kolejk¹ typu
+a) FIFO
+b) LIFO
+c) FIFI

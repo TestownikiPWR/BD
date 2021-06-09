@@ -1,0 +1,6 @@
+X0100
+47. Jaka jest wielkoœæ tzw. ekstentu strony danych w MS SQL Server:
+a) 2GB
+b) 64kB
+c) 8kB
+d) 64B

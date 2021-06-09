@@ -1,0 +1,6 @@
+X1000
+34. Które diagramy UML opisuj¹ dynamikê systemu?
+a) diagramy przypadków u¿ycia
+b) diagramy klas
+c) diagramy obiektów
+d) diagramy wdro¿eniowy

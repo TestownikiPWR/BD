@@ -1,0 +1,6 @@
+X0001
+31. InnoDB jest silnikiem bazy danych w:
+a) PostgreSQL
+b) Oracle Database
+c) SQLite
+d) MySQL

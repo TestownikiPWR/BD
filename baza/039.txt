@@ -1,0 +1,6 @@
+X1000
+39. Instrukcja CREATE PROCEDURE mo¿e byæ wywo³ana:
+a) w bloku PL/SQL
+b) w SQL *Plusie
+c) w innej procedurze
+d) w wyzwalaczu

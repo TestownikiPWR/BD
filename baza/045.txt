@@ -1,0 +1,6 @@
+X0010
+45. Co oznacza skrót UML:
+a) uniwersalny jêzyk modelowania (ang. Universal Modeling Language)
+b) uniwersalna metodologia i jêzyk (modelowania) (ang. Universal Methodology and Language)
+c) zunifikowany jêzyk modelowania (ang. Unified Modeling Language)
+d) podrêcznik u¿ytkownika jêzyka (ang. User's Manual Language)

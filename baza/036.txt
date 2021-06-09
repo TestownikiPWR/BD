@@ -1,0 +1,6 @@
+X0010
+36. Na diagramach klas symbolem + oznaczamy atrybut:
+a) prywatny
+b) chroniony
+c) publiczny
+d) pakietowy

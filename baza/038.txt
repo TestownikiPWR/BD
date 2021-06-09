@@ -1,0 +1,6 @@
+X0010
+38. Skrót ODBC oznacza:
+a) Off-line Data Bandwidth Correction
+b) Oracle Database Binary Code
+c) Open DataBase Connectivity
+d) On-line DataBase Communication

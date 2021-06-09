@@ -1,0 +1,6 @@
+X0100
+37. Który poziom macierzy RAID nazywamy lustrzanym:
+a) RAID 0
+b) RAID 1
+c) RAID 2
+d) RAID 6

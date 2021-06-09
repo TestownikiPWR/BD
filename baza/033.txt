@@ -1,0 +1,6 @@
+X1000
+33. Liczba indeksów zgrupowanych jak¹ mo¿na stworzyæ to:
+a) 1
+b) do 248
+c) do 16
+d) 16

@@ -1,0 +1,5 @@
+X100
+23. Który podpunkt zawiera tylko polecenia DML-SQL:
+select update
+insert truncate
+alter delete

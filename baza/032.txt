@@ -1,0 +1,6 @@
+X1000
+32. Który poziom macierzy RAID dzia³a w trybie tzw. stripingu?
+a) RAID 0
+b) RAID 1
+c) RAID 2
+d) RAID 6

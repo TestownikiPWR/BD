@@ -1,0 +1,6 @@
+X0010
+40. Indeks zgrupowany posiada na poziomie liœci B-drzewa:
+a) strony indeksów
+b) wskazania na indeks niezgrupowany
+c) strony z danymi
+d) wskazania na stertê

@@ -1,0 +1,6 @@
+X0010
+49. W konfiguracji serwerów lustrzanych, baza zapasowa jest nazywana:
+a) twin database
+b) background database
+c) standby database
+d) production database
